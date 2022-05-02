@@ -1,0 +1,26 @@
+.bg-login{
+    background-image: url("../images/bg-login.jpg");
+    min-height: 600px;
+}
+.login-div{
+    max-width: 400px;
+    margin: 0 auto;
+}
+.fa.fa-trash.sp {
+    background: red none repeat scroll 0 0;
+}
+.sp{
+    box-shadow: 0 2px 2px 1px #888;
+    color: #fff;
+    padding: 5px;
+    font-size: 15px;
+}
+.fa.fa-edit.sp {
+    background: #00aeff;
+}
+.fa.fa-user.sp {
+    background: #a23204;
+}
+.page-scroll{
+    font-weight: bold !important;
+}
